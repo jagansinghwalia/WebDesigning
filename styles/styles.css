@@ -4,3 +4,8 @@ h1{
     color: yellow;
     text-align: center;
 }
+.video-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
